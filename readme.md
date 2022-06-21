@@ -23,3 +23,5 @@ Se utiliza el time.sleep para corroborar que todos los eventos sean leidos sin i
 
 ## Diseño de Arquitectura
 
+![DIAGRAMA](https://user-images.githubusercontent.com/7397895/174886309-55a62ee4-3778-422d-86cf-fac621bbb4e4.png)
+
